@@ -17,11 +17,13 @@
 ![Kiểm tra thành công](sc.png)
 
 ### Một số trường hợp lỗi:
-- ![Lỗi 1](e1.png)
-- ![Lỗi 2](e2.png)
-- ![Lỗi 3](e3.png)
-- ![Lỗi 4](e4.png)
-- ![Lỗi 5](e5.png)
+<p align="center">
+  <img src="e1.png" width="200" style="margin-right: 15px"/>
+  <img src="e2.png" width="200" style="margin-right: 15px"/>
+  <img src="e3.png" width="200" style="margin-right: 15px"/>
+  <img src="e4.png" width="200" style="margin-right: 15px"/>
+  <img src="e5.png" width="200"/>
+</p>
 
 ## Công nghệ sử dụng
 - Android Studio
